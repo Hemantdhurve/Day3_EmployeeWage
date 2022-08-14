@@ -12,8 +12,8 @@ namespace EmpWageComputation
             //so my class is static no need to instantiate/create object of class
             //directly call method
 
-            Console.WriteLine("Output to get Daily Wage of Employee is Part time or Full time using Switch case :");
-            EmployeeWage.EmpWageSwitchForMonth();
+            Console.WriteLine("Output of Total Employee wage for a Month  :");
+            EmployeeWage.EmpWageTotalWorkingDays();
         }
     }
 }
