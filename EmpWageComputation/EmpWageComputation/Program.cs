@@ -12,8 +12,8 @@ namespace EmpWageComputation
             //so my class is static no need to instantiate/create object of class
             //directly call method
 
-            Console.WriteLine("To check Employee is Present or Absent as a Output:");
-            EmployeeWage.EmployeeCheckAttendance();
+            Console.WriteLine("To find daily wage as a Output:");
+            EmployeeWage.EmpDailyWage();
         }
     }
 }
